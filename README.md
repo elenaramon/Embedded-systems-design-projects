@@ -1,4 +1,4 @@
-# Embedded-systems-design-projects
+# Embedded systems design projects
 
 ## First Project
 
