@@ -7,7 +7,7 @@ Modeling and synthesis of a floating-point single precision multiplier in three 
 2. One module in [`SystemC`](first-project/solutions/RTL/SystemC);
 3. A simple multiplier in [`C++`](first-project/solutions/RTL/cpp).
 
-All the informations and the comparisons are available in the [`report](first-project/report).
+All the informations and the comparisons are available in the [`report`](first-project/report).
 
 ## Second Project
 
@@ -17,4 +17,4 @@ Modeling and synthesis of a floating-point single precision multiplier in differ
 3. Approximately-timed SystemC TLM multiplier ([`AT4`](second-project/solutions/TLM/AT4));
 4. Integration of VHDL and Verilog multipliers in a [`Virtual Platform`](second-project/solutions/Virtual_Platform).
 
-All the informations and the comparisons are available in the [`report](second-project/report).
+All the informations and the comparisons are available in the [`report`](second-project/report).
